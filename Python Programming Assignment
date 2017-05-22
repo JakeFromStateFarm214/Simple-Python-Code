@@ -1,0 +1,10 @@
+print("My name is Jacob Wallace-Potash.")
+print("My student ID is 2042345.")
+print("J")
+print("a")
+print("c")
+print("o")
+print("b")
+print("My name all capitalized is JACOB WALLACE-POTASH.")
+my_summer_plans["This summer I plan to sleep, travel, work."]
+print(*my_summer_plans)
